@@ -1,0 +1,19 @@
+{
+  "appKey": "g3iIrsnPn2pAGkqgGBrYLYlXa5639N72",
+  "appSecret": "rnhJj5H82t1TITftHkREss4pEwwVdNie",
+  "projectId": "03959af9e986a8ada17aaf4ca83ceff4",
+  "id": 374,
+  "name": "test0427",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/chenxing-lh/o427.git",
+    "isPrivate": 0,
+    "username": "381606250@qq.com",
+    "password": "GlzY2pgdkQEi4KVyKgJKqey2zKD/Unc8bFfEJe/NJKoGIMeB+2mbiUbjthHOu3RSB0v5xObf+RyAg6PIl7KsZw=="
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
